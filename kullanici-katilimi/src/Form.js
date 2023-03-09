@@ -147,6 +147,7 @@ const Form = (props) => {
                 <Checkbox
                   color="secondary"
                   name="acceptTerms"
+                  id="acceptTerms"
                   value={formData.acceptTerms}
                 />
               }
